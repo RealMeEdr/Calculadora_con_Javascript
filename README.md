@@ -5,5 +5,5 @@ Link de la demo:
 https://realmeedr.github.io/Calculadora_con_Javascript/
 
 Link de mis demás proyectos:
-https://consult2.000webhostapp.com/Index.html
+https://consult2.000webhostapp.com/index.html
 
